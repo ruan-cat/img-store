@@ -1,2 +1,2 @@
 # img-store
-阮中楠的github公开图床
+自用的github公开图床
